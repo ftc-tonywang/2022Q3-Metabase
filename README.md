@@ -1,5 +1,5 @@
 # 2022-study-circle
-2022-RD讀書會活動
+2022-RD讀書會活動-Metabase
 
 ## 規則
 
