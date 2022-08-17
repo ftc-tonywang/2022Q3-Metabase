@@ -28,3 +28,7 @@ Tony Demo ETL學習進度：<br>
 Sandy：Metabase操作介面熟悉<br>
 Brett：針對norton報表sql進行簡化
 
+8/12<br>
+同步線上課程進度<br>
+針對norton報表sql進行簡化討論,測試sql執行<br>
+sandy aws多因素驗證設定
